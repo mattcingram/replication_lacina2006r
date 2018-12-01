@@ -1,3 +1,4 @@
+install.packages("pacman")
 install.packages("spdep")
 install.packages("graphicsQC")
 install.packages("prettyR")
